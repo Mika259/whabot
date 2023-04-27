@@ -5,20 +5,28 @@ Whatsapp bot to your number
 
 #Installation
 - install Node js (javascript)
-```apt install nodejs-lts```
+```
+apt install nodejs-lts
+```
 
 - install wwebjs
-```npm i whatsapp-web.js
+```
+npm i whatsapp-web.js
 ```
 
 - install qrcode terminal
-```npm i qrcode-terminal
+```
+npm i qrcode-terminal
 ```
 
 - open directory
-```cd whabot```
+```
+cd whabot
+```
 
 - run bot
-```node bot.js```
+```
+node bot.js
+```
 
 - then scan your qr code
