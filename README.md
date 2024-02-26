@@ -2,7 +2,7 @@
 Whatsapp bot to your number
 
 - Linux/Ubuntu...
-
+- Windows especially
 #Installation
 - install Node js (javascript)
 ```
